@@ -1,0 +1,1020 @@
+Model number 4:
+Epoch  0
+test acc:  0.35249999165534973
+Epoch  1
+test acc:  0.5288999676704407
+Epoch  2
+test acc:  0.5602999925613403
+Epoch  3
+test acc:  0.6496999859809875
+Epoch  4
+test acc:  0.6936999559402466
+Epoch  5
+test acc:  0.7160999774932861
+Epoch  6
+test acc:  0.7340999841690063
+Epoch  7
+test acc:  0.7393999695777893
+Epoch  8
+test acc:  0.7457999587059021
+Epoch  9
+test acc:  0.7597000002861023
+Epoch  10
+test acc:  0.7723000049591064
+Epoch  11
+test acc:  0.7820000052452087
+Epoch  12
+test acc:  0.7967000007629395
+Epoch  13
+test acc:  0.805899977684021
+Epoch  14
+test acc:  0.8122999668121338
+Epoch  15
+test acc:  0.8137999773025513
+Epoch  16
+test acc:  0.8151999711990356
+Epoch  17
+test acc:  0.8258999586105347
+Epoch  18
+test acc:  0.8316999673843384
+Epoch  19
+test acc:  0.8327999711036682
+Epoch  20
+test acc:  0.8406999707221985
+Epoch  21
+test acc:  0.842799961566925
+Epoch  22
+test acc:  0.8446999788284302
+Epoch  23
+test acc:  0.8485999703407288
+Epoch  24
+test acc:  0.8519999980926514
+Epoch  25
+test acc:  0.852899968624115
+Epoch  26
+test acc:  0.8554999828338623
+Epoch  27
+test acc:  0.8593999743461609
+Epoch  28
+test acc:  0.861799955368042
+Epoch  29
+test acc:  0.8628999590873718
+Epoch  30
+test acc:  0.8651999831199646
+Epoch  31
+test acc:  0.8673999905586243
+Epoch  32
+test acc:  0.8679999709129333
+Epoch  33
+test acc:  0.8659999966621399
+Epoch  34
+test acc:  0.8698999881744385
+Epoch  35
+test acc:  0.8705999851226807
+Epoch  36
+test acc:  0.871399998664856
+Epoch  37
+test acc:  0.8689000010490417
+Epoch  38
+test acc:  0.8714999556541443
+Epoch  39
+test acc:  0.8720999956130981
+Epoch  40
+test acc:  0.8740999698638916
+Epoch  41
+test acc:  0.8747999668121338
+Epoch  42
+test acc:  0.875
+Epoch  43
+test acc:  0.8768999576568604
+Epoch  44
+test acc:  0.8761999607086182
+Epoch  45
+test acc:  0.8780999779701233
+Epoch  46
+test acc:  0.8751999735832214
+Epoch  47
+test acc:  0.8768999576568604
+Epoch  48
+test acc:  0.8791999816894531
+Epoch  49
+test acc:  0.876800000667572
+Epoch  50
+test acc:  0.8782999515533447
+Epoch  51
+test acc:  0.8795999884605408
+Epoch  52
+test acc:  0.8804999589920044
+Epoch  53
+test acc:  0.8786999583244324
+Epoch  54
+test acc:  0.8819999694824219
+Epoch  55
+test acc:  0.8815999627113342
+Epoch  56
+test acc:  0.8809999823570251
+Epoch  57
+test acc:  0.882599949836731
+Epoch  58
+test acc:  0.8811999559402466
+Epoch  59
+test acc:  0.8792999982833862
+Epoch  60
+test acc:  0.8798999786376953
+Epoch  61
+test acc:  0.8804999589920044
+Epoch  62
+test acc:  0.8827999830245972
+Epoch  63
+test acc:  0.8813999891281128
+Epoch  64
+test acc:  0.8815999627113342
+Epoch  65
+test acc:  0.8822000026702881
+Epoch  66
+test acc:  0.882099986076355
+Epoch  67
+test acc:  0.8827999830245972
+Epoch  68
+test acc:  0.882099986076355
+Epoch  69
+test acc:  0.8800999522209167
+Epoch  70
+test acc:  0.8819999694824219
+Epoch  71
+test acc:  0.8840000033378601
+Epoch  72
+test acc:  0.8840000033378601
+Epoch  73
+test acc:  0.8848999738693237
+Epoch  74
+test acc:  0.8830999732017517
+Epoch  75
+test acc:  0.8863999843597412
+Epoch  76
+test acc:  0.887999951839447
+Epoch  77
+test acc:  0.8852999806404114
+Epoch  78
+test acc:  0.8840000033378601
+Epoch  79
+test acc:  0.8870999813079834
+Epoch  80
+test acc:  0.886199951171875
+Epoch  81
+test acc:  0.8847999572753906
+Epoch  82
+test acc:  0.8873999714851379
+Epoch  83
+test acc:  0.8867999911308289
+Epoch  84
+test acc:  0.8862999677658081
+Epoch  85
+test acc:  0.8840999603271484
+Epoch  86
+test acc:  0.8847999572753906
+Epoch  87
+test acc:  0.8871999979019165
+Epoch  88
+test acc:  0.8865999579429626
+Epoch  89
+test acc:  0.8836999535560608
+Epoch  90
+test acc:  0.8880999684333801
+Epoch  91
+test acc:  0.8888999819755554
+Epoch  92
+test acc:  0.8916999697685242
+Epoch  93
+test acc:  0.8876000046730042
+Epoch  94
+test acc:  0.8870999813079834
+Epoch  95
+test acc:  0.8865000009536743
+Epoch  96
+test acc:  0.8878999948501587
+Epoch  97
+test acc:  0.8898999691009521
+Epoch  98
+test acc:  0.8878999948501587
+Epoch  99
+test acc:  0.880299985408783
+Leaf usage is:  3.0
+train acc:  0.9144999980926514
+Best acc is:  0.8916999697685242
+Model number 5:
+Epoch  0
+test acc:  0.4165000021457672
+Epoch  1
+test acc:  0.4812999963760376
+Epoch  2
+test acc:  0.5360999703407288
+Epoch  3
+test acc:  0.5618000030517578
+Epoch  4
+test acc:  0.5640000104904175
+Epoch  5
+test acc:  0.5773999691009521
+Epoch  6
+test acc:  0.5884999632835388
+Epoch  7
+test acc:  0.5938000082969666
+Epoch  8
+test acc:  0.6015999913215637
+Epoch  9
+test acc:  0.6517999768257141
+Epoch  10
+test acc:  0.6570000052452087
+Epoch  11
+test acc:  0.6636999845504761
+Epoch  12
+test acc:  0.6764000058174133
+Epoch  13
+test acc:  0.69159996509552
+Epoch  14
+test acc:  0.7091999650001526
+Epoch  15
+test acc:  0.7193999886512756
+Epoch  16
+test acc:  0.7304999828338623
+Epoch  17
+test acc:  0.7416999936103821
+Epoch  18
+test acc:  0.7515000104904175
+Epoch  19
+test acc:  0.7543999552726746
+Epoch  20
+test acc:  0.7602999806404114
+Epoch  21
+test acc:  0.7619999647140503
+Epoch  22
+test acc:  0.7691999673843384
+Epoch  23
+test acc:  0.7940999865531921
+Epoch  24
+test acc:  0.8172000050544739
+Epoch  25
+test acc:  0.8230999708175659
+Epoch  26
+test acc:  0.826200008392334
+Epoch  27
+test acc:  0.8362999558448792
+Epoch  28
+test acc:  0.8369999527931213
+Epoch  29
+test acc:  0.8418999910354614
+Epoch  30
+test acc:  0.840399980545044
+Epoch  31
+test acc:  0.8481000065803528
+Epoch  32
+test acc:  0.8484999537467957
+Epoch  33
+test acc:  0.8509999513626099
+Epoch  34
+test acc:  0.8569999933242798
+Epoch  35
+test acc:  0.8598999977111816
+Epoch  36
+test acc:  0.8590999841690063
+Epoch  37
+test acc:  0.8610999584197998
+Epoch  38
+test acc:  0.8610999584197998
+Epoch  39
+test acc:  0.8623999953269958
+Epoch  40
+test acc:  0.8667999505996704
+Epoch  41
+test acc:  0.8657000064849854
+Epoch  42
+test acc:  0.8675000071525574
+Epoch  43
+test acc:  0.8662999868392944
+Epoch  44
+test acc:  0.8715999722480774
+Epoch  45
+test acc:  0.8725999593734741
+Epoch  46
+test acc:  0.8730999827384949
+Epoch  47
+test acc:  0.8718000054359436
+Epoch  48
+test acc:  0.8728999495506287
+Epoch  49
+test acc:  0.8738999962806702
+Epoch  50
+test acc:  0.8758999705314636
+Epoch  51
+test acc:  0.8734999895095825
+Epoch  52
+test acc:  0.8787999749183655
+Epoch  53
+test acc:  0.8788999915122986
+Epoch  54
+test acc:  0.8779999613761902
+Epoch  55
+test acc:  0.8792999982833862
+Epoch  56
+test acc:  0.8819999694824219
+Epoch  57
+test acc:  0.87909996509552
+Epoch  58
+test acc:  0.8788999915122986
+Epoch  59
+test acc:  0.8829999566078186
+Epoch  60
+test acc:  0.8804000020027161
+Epoch  61
+test acc:  0.8822000026702881
+Epoch  62
+test acc:  0.8851000070571899
+Epoch  63
+test acc:  0.882099986076355
+Epoch  64
+test acc:  0.8824999928474426
+Epoch  65
+test acc:  0.883899986743927
+Epoch  66
+test acc:  0.8826999664306641
+Epoch  67
+test acc:  0.8833000063896179
+Epoch  68
+test acc:  0.8837999701499939
+Epoch  69
+test acc:  0.8828999996185303
+Epoch  70
+test acc:  0.8854999542236328
+Epoch  71
+test acc:  0.8872999548912048
+Epoch  72
+test acc:  0.8870999813079834
+Epoch  73
+test acc:  0.8852999806404114
+Epoch  74
+test acc:  0.8871999979019165
+Epoch  75
+test acc:  0.885699987411499
+Epoch  76
+test acc:  0.887999951839447
+Epoch  77
+test acc:  0.8878999948501587
+Epoch  78
+test acc:  0.8892999887466431
+Epoch  79
+test acc:  0.8899999856948853
+Epoch  80
+test acc:  0.8883999586105347
+Epoch  81
+test acc:  0.8907999992370605
+Epoch  82
+test acc:  0.8898999691009521
+Epoch  83
+test acc:  0.8921999931335449
+Epoch  84
+test acc:  0.8906999826431274
+Epoch  85
+test acc:  0.8898999691009521
+Epoch  86
+test acc:  0.8915999531745911
+Epoch  87
+test acc:  0.8917999863624573
+Epoch  88
+test acc:  0.8907999992370605
+Epoch  89
+test acc:  0.889799952507019
+Epoch  90
+test acc:  0.8917999863624573
+Epoch  91
+test acc:  0.8886999487876892
+Epoch  92
+test acc:  0.8917999863624573
+Epoch  93
+test acc:  0.889799952507019
+Epoch  94
+test acc:  0.890999972820282
+Epoch  95
+test acc:  0.8912999629974365
+Epoch  96
+test acc:  0.8907999992370605
+Epoch  97
+test acc:  0.8935999870300293
+Epoch  98
+test acc:  0.8922999501228333
+Epoch  99
+test acc:  0.8916999697685242
+Leaf usage is:  4.0
+train acc:  0.9125666618347168
+Best acc is:  0.8935999870300293
+Model number 6:
+Epoch  0
+test acc:  0.3473999798297882
+Epoch  1
+test acc:  0.47360000014305115
+Epoch  2
+test acc:  0.5275999903678894
+Epoch  3
+test acc:  0.542199969291687
+Epoch  4
+test acc:  0.5947999954223633
+Epoch  5
+test acc:  0.6025999784469604
+Epoch  6
+test acc:  0.6189999580383301
+Epoch  7
+test acc:  0.6230999827384949
+Epoch  8
+test acc:  0.6305999755859375
+Epoch  9
+test acc:  0.6244999766349792
+Epoch  10
+test acc:  0.6496999859809875
+Epoch  11
+test acc:  0.6714000105857849
+Epoch  12
+test acc:  0.6803999543190002
+Epoch  13
+test acc:  0.6949999928474426
+Epoch  14
+test acc:  0.6940999627113342
+Epoch  15
+test acc:  0.7125999927520752
+Epoch  16
+test acc:  0.7245000004768372
+Epoch  17
+test acc:  0.7175999879837036
+Epoch  18
+test acc:  0.7310000061988831
+Epoch  19
+test acc:  0.7317000031471252
+Epoch  20
+test acc:  0.7293999791145325
+Epoch  21
+test acc:  0.7319999933242798
+Epoch  22
+test acc:  0.7445999979972839
+Epoch  23
+test acc:  0.7479000091552734
+Epoch  24
+test acc:  0.7475000023841858
+Epoch  25
+test acc:  0.7512999773025513
+Epoch  26
+test acc:  0.746399998664856
+Epoch  27
+test acc:  0.755899965763092
+Epoch  28
+test acc:  0.7513999938964844
+Epoch  29
+test acc:  0.7619999647140503
+Epoch  30
+test acc:  0.7526999711990356
+Epoch  31
+test acc:  0.7602999806404114
+Epoch  32
+test acc:  0.7633000016212463
+Epoch  33
+test acc:  0.7634999752044678
+Epoch  34
+test acc:  0.7734000086784363
+Epoch  35
+test acc:  0.7651000022888184
+Epoch  36
+test acc:  0.7771999835968018
+Epoch  37
+test acc:  0.770799994468689
+Epoch  38
+test acc:  0.7702999711036682
+Epoch  39
+test acc:  0.7739999890327454
+Epoch  40
+test acc:  0.7734000086784363
+Epoch  41
+test acc:  0.7652999758720398
+Epoch  42
+test acc:  0.7792999744415283
+Epoch  43
+test acc:  0.7824999690055847
+Epoch  44
+test acc:  0.7821999788284302
+Epoch  45
+test acc:  0.7917999625205994
+Epoch  46
+test acc:  0.7858999967575073
+Epoch  47
+test acc:  0.7840999960899353
+Epoch  48
+test acc:  0.7935999631881714
+Epoch  49
+test acc:  0.7937999963760376
+Epoch  50
+test acc:  0.7807999849319458
+Epoch  51
+test acc:  0.7932999730110168
+Epoch  52
+test acc:  0.7983999848365784
+Epoch  53
+test acc:  0.7870999574661255
+Epoch  54
+test acc:  0.7990999817848206
+Epoch  55
+test acc:  0.7883999943733215
+Epoch  56
+test acc:  0.8019999861717224
+Epoch  57
+test acc:  0.7958999872207642
+Epoch  58
+test acc:  0.8011999726295471
+Epoch  59
+test acc:  0.7953000068664551
+Epoch  60
+test acc:  0.8046000003814697
+Epoch  61
+test acc:  0.7971999645233154
+Epoch  62
+test acc:  0.8118999600410461
+Epoch  63
+test acc:  0.8070999979972839
+Epoch  64
+test acc:  0.8083999752998352
+Epoch  65
+test acc:  0.8075000047683716
+Epoch  66
+test acc:  0.8093999624252319
+Epoch  67
+test acc:  0.8104999661445618
+Epoch  68
+test acc:  0.8050000071525574
+Epoch  69
+test acc:  0.8241999745368958
+Epoch  70
+test acc:  0.8206999897956848
+Epoch  71
+test acc:  0.8228999972343445
+Epoch  72
+test acc:  0.8235999941825867
+Epoch  73
+test acc:  0.8220999836921692
+Epoch  74
+test acc:  0.823199987411499
+Epoch  75
+test acc:  0.8282999992370605
+Epoch  76
+test acc:  0.8194999694824219
+Epoch  77
+test acc:  0.8294999599456787
+Epoch  78
+test acc:  0.8215999603271484
+Epoch  79
+test acc:  0.823699951171875
+Epoch  80
+test acc:  0.8290999531745911
+Epoch  81
+test acc:  0.8240999579429626
+Epoch  82
+test acc:  0.833899974822998
+Epoch  83
+test acc:  0.8298999667167664
+Epoch  84
+test acc:  0.8241999745368958
+Epoch  85
+test acc:  0.8356999754905701
+Epoch  86
+test acc:  0.833899974822998
+Epoch  87
+test acc:  0.8223999738693237
+Epoch  88
+test acc:  0.8312999606132507
+Epoch  89
+test acc:  0.8263999819755554
+Epoch  90
+test acc:  0.8370999693870544
+Epoch  91
+test acc:  0.8299999833106995
+Epoch  92
+test acc:  0.8241999745368958
+Epoch  93
+test acc:  0.8345999717712402
+Epoch  94
+test acc:  0.8324999809265137
+Epoch  95
+test acc:  0.8366999626159668
+Epoch  96
+test acc:  0.8263999819755554
+Epoch  97
+test acc:  0.8384000062942505
+Epoch  98
+test acc:  0.842199981212616
+Epoch  99
+test acc:  0.8423999547958374
+Leaf usage is:  4.0
+train acc:  0.908133327960968
+Best acc is:  0.8423999547958374
+Model number 7:
+Epoch  0
+test acc:  0.47369998693466187
+Epoch  1
+test acc:  0.6299999952316284
+Epoch  2
+test acc:  0.6912999749183655
+Epoch  3
+test acc:  0.7264999747276306
+Epoch  4
+test acc:  0.7594000101089478
+Epoch  5
+test acc:  0.786899983882904
+Epoch  6
+test acc:  0.8104999661445618
+Epoch  7
+test acc:  0.8248999714851379
+Epoch  8
+test acc:  0.840999960899353
+Epoch  9
+test acc:  0.8491999506950378
+Epoch  10
+test acc:  0.8489999771118164
+Epoch  11
+test acc:  0.8585999608039856
+Epoch  12
+test acc:  0.8636999726295471
+Epoch  13
+test acc:  0.8637999892234802
+Epoch  14
+test acc:  0.8709999918937683
+Epoch  15
+test acc:  0.875
+Epoch  16
+test acc:  0.8801999688148499
+Epoch  17
+test acc:  0.8761999607086182
+Epoch  18
+test acc:  0.8779000043869019
+Epoch  19
+test acc:  0.8794999718666077
+Epoch  20
+test acc:  0.882599949836731
+Epoch  21
+test acc:  0.8822999596595764
+Epoch  22
+test acc:  0.8833999633789062
+Epoch  23
+test acc:  0.8848999738693237
+Epoch  24
+test acc:  0.8789999485015869
+Epoch  25
+test acc:  0.8822000026702881
+Epoch  26
+test acc:  0.8847999572753906
+Epoch  27
+test acc:  0.8813999891281128
+Epoch  28
+test acc:  0.8784999847412109
+Epoch  29
+test acc:  0.8876000046730042
+Epoch  30
+test acc:  0.8819999694824219
+Epoch  31
+test acc:  0.8858999609947205
+Epoch  32
+test acc:  0.8813999891281128
+Epoch  33
+test acc:  0.882099986076355
+Epoch  34
+test acc:  0.8845999836921692
+Epoch  35
+test acc:  0.8824999928474426
+Epoch  36
+test acc:  0.8937999606132507
+Epoch  37
+test acc:  0.8922999501228333
+Epoch  38
+test acc:  0.8910999894142151
+Epoch  39
+test acc:  0.882099986076355
+Epoch  40
+test acc:  0.8994999527931213
+Epoch  41
+test acc:  0.9004999995231628
+Epoch  42
+test acc:  0.8939999938011169
+Epoch  43
+test acc:  0.8923999667167664
+Epoch  44
+test acc:  0.8903999924659729
+Epoch  45
+test acc:  0.8913999795913696
+Epoch  46
+test acc:  0.8895999789237976
+Epoch  47
+test acc:  0.8960999846458435
+Epoch  48
+test acc:  0.9017999768257141
+Epoch  49
+test acc:  0.9052000045776367
+Epoch  50
+test acc:  0.9003999829292297
+Epoch  51
+test acc:  0.885699987411499
+Epoch  52
+test acc:  0.8798999786376953
+Epoch  53
+test acc:  0.8896999955177307
+Epoch  54
+test acc:  0.8916999697685242
+Epoch  55
+test acc:  0.8881999850273132
+Epoch  56
+test acc:  0.8998000025749207
+Epoch  57
+test acc:  0.882099986076355
+Epoch  58
+test acc:  0.9003999829292297
+Epoch  59
+test acc:  0.9034000039100647
+Epoch  60
+test acc:  0.8847000002861023
+Epoch  61
+test acc:  0.8964999914169312
+Epoch  62
+test acc:  0.8996999859809875
+Epoch  63
+test acc:  0.8942999839782715
+Epoch  64
+test acc:  0.8996999859809875
+Epoch  65
+test acc:  0.8962000012397766
+Epoch  66
+test acc:  0.8899999856948853
+Epoch  67
+test acc:  0.8880999684333801
+Epoch  68
+test acc:  0.904699981212616
+Epoch  69
+test acc:  0.8956999778747559
+Epoch  70
+test acc:  0.9084999561309814
+Epoch  71
+test acc:  0.8955999612808228
+Epoch  72
+test acc:  0.9041999578475952
+Epoch  73
+test acc:  0.8933999538421631
+Epoch  74
+test acc:  0.8991999626159668
+Epoch  75
+test acc:  0.8949999809265137
+Epoch  76
+test acc:  0.898099958896637
+Epoch  77
+test acc:  0.8629999756813049
+Epoch  78
+test acc:  0.8872999548912048
+Epoch  79
+test acc:  0.8865000009536743
+Epoch  80
+test acc:  0.8958999514579773
+Epoch  81
+test acc:  0.8994999527931213
+Epoch  82
+test acc:  0.8750999569892883
+Epoch  83
+test acc:  0.913599967956543
+Epoch  84
+test acc:  0.8916999697685242
+Epoch  85
+test acc:  0.8722999691963196
+Epoch  86
+test acc:  0.8849999904632568
+Epoch  87
+test acc:  0.8858000040054321
+Epoch  88
+test acc:  0.8973999619483948
+Epoch  89
+test acc:  0.8840999603271484
+Epoch  90
+test acc:  0.8986999988555908
+Epoch  91
+test acc:  0.8851000070571899
+Epoch  92
+test acc:  0.8835999965667725
+Epoch  93
+test acc:  0.8851000070571899
+Epoch  94
+test acc:  0.8827999830245972
+Epoch  95
+test acc:  0.9138999581336975
+Epoch  96
+test acc:  0.9083999991416931
+Epoch  97
+test acc:  0.9009000062942505
+Epoch  98
+test acc:  0.9054999947547913
+Epoch  99
+test acc:  0.9120999574661255
+Leaf usage is:  4.0
+train acc:  0.9421666860580444
+Best acc is:  0.9138999581336975
+Model number 8:
+Epoch  0
+test acc:  0.3748999834060669
+Epoch  1
+test acc:  0.5848999619483948
+Epoch  2
+test acc:  0.7019999623298645
+Epoch  3
+test acc:  0.7387999892234802
+Epoch  4
+test acc:  0.7591999769210815
+Epoch  5
+test acc:  0.7684999704360962
+Epoch  6
+test acc:  0.778499960899353
+Epoch  7
+test acc:  0.7841999530792236
+Epoch  8
+test acc:  0.7920999526977539
+Epoch  9
+test acc:  0.7950999736785889
+Epoch  10
+test acc:  0.7996000051498413
+Epoch  11
+test acc:  0.8023999929428101
+Epoch  12
+test acc:  0.8032000064849854
+Epoch  13
+test acc:  0.8072999715805054
+Epoch  14
+test acc:  0.8090999722480774
+Epoch  15
+test acc:  0.8111000061035156
+Epoch  16
+test acc:  0.8145999908447266
+Epoch  17
+test acc:  0.8179000020027161
+Epoch  18
+test acc:  0.8190000057220459
+Epoch  19
+test acc:  0.8229999542236328
+Epoch  20
+test acc:  0.825499951839447
+Epoch  21
+test acc:  0.8276999592781067
+Epoch  22
+test acc:  0.8330999612808228
+Epoch  23
+test acc:  0.8402999639511108
+Epoch  24
+test acc:  0.8407999873161316
+Epoch  25
+test acc:  0.840499997138977
+Epoch  26
+test acc:  0.8460999727249146
+Epoch  27
+test acc:  0.8520999550819397
+Epoch  28
+test acc:  0.8502999544143677
+Epoch  29
+test acc:  0.8481999635696411
+Epoch  30
+test acc:  0.8575999736785889
+Epoch  31
+test acc:  0.8540999889373779
+Epoch  32
+test acc:  0.8560000061988831
+Epoch  33
+test acc:  0.8579999804496765
+Epoch  34
+test acc:  0.8587999939918518
+Epoch  35
+test acc:  0.858299970626831
+Epoch  36
+test acc:  0.8593999743461609
+Epoch  37
+test acc:  0.8616999983787537
+Epoch  38
+test acc:  0.8639000058174133
+Epoch  39
+test acc:  0.8639000058174133
+Epoch  40
+test acc:  0.8613999485969543
+Epoch  41
+test acc:  0.8643999695777893
+Epoch  42
+test acc:  0.8691999912261963
+Epoch  43
+test acc:  0.8664999604225159
+Epoch  44
+test acc:  0.871999979019165
+Epoch  45
+test acc:  0.8680999875068665
+Epoch  46
+test acc:  0.8776999711990356
+Epoch  47
+test acc:  0.8740999698638916
+Epoch  48
+test acc:  0.878600001335144
+Epoch  49
+test acc:  0.8740999698638916
+Epoch  50
+test acc:  0.8782999515533447
+Epoch  51
+test acc:  0.8804999589920044
+Epoch  52
+test acc:  0.8793999552726746
+Epoch  53
+test acc:  0.8836999535560608
+Epoch  54
+test acc:  0.8817999958992004
+Epoch  55
+test acc:  0.880899965763092
+Epoch  56
+test acc:  0.882599949836731
+Epoch  57
+test acc:  0.8815999627113342
+Epoch  58
+test acc:  0.8867999911308289
+Epoch  59
+test acc:  0.8877999782562256
+Epoch  60
+test acc:  0.8866999745368958
+Epoch  61
+test acc:  0.8880999684333801
+Epoch  62
+test acc:  0.885699987411499
+Epoch  63
+test acc:  0.8901999592781067
+Epoch  64
+test acc:  0.8883000016212463
+Epoch  65
+test acc:  0.8888999819755554
+Epoch  66
+test acc:  0.8906999826431274
+Epoch  67
+test acc:  0.8887999653816223
+Epoch  68
+test acc:  0.8912999629974365
+Epoch  69
+test acc:  0.8919000029563904
+Epoch  70
+test acc:  0.8919000029563904
+Epoch  71
+test acc:  0.8916999697685242
+Epoch  72
+test acc:  0.8923999667167664
+Epoch  73
+test acc:  0.8926999568939209
+Epoch  74
+test acc:  0.8939999938011169
+Epoch  75
+test acc:  0.8944000005722046
+Epoch  76
+test acc:  0.8938999772071838
+Epoch  77
+test acc:  0.8949999809265137
+Epoch  78
+test acc:  0.8926999568939209
+Epoch  79
+test acc:  0.8951999545097351
+Epoch  80
+test acc:  0.8959999680519104
+Epoch  81
+test acc:  0.8932999968528748
+Epoch  82
+test acc:  0.8966999650001526
+Epoch  83
+test acc:  0.8940999507904053
+Epoch  84
+test acc:  0.8978999853134155
+Epoch  85
+test acc:  0.8977999687194824
+Epoch  86
+test acc:  0.8973999619483948
+Epoch  87
+test acc:  0.8977999687194824
+Epoch  88
+test acc:  0.8991000056266785
+Epoch  89
+test acc:  0.898099958896637
+Epoch  90
+test acc:  0.8962000012397766
+Epoch  91
+test acc:  0.8973999619483948
+Epoch  92
+test acc:  0.8988999724388123
+Epoch  93
+test acc:  0.8998000025749207
+Epoch  94
+test acc:  0.8988999724388123
+Epoch  95
+test acc:  0.8959999680519104
+Epoch  96
+test acc:  0.8980000019073486
+Epoch  97
+test acc:  0.8991000056266785
+Epoch  98
+test acc:  0.9002999663352966
+Epoch  99
+test acc:  0.8988999724388123
+Leaf usage is:  3.0
+train acc:  0.9258500337600708
+Best acc is:  0.9002999663352966

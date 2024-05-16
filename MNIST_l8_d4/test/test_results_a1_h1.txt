@@ -1,0 +1,3 @@
+Namespace(dataset='MNIST', batch_size=2048, input_width=784, leaf_width=8, harden_param=1, balance_param=1, depth=4, balance_epochs=300, hard_epochs=300, hidden_width=128, runs=5)
+Model number 1:
+Epoch  1

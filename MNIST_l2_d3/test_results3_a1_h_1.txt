@@ -1,0 +1,72 @@
+Model number 0:
+Epoch  0
+test acc:  0.19519999623298645
+Epoch  1
+test acc:  0.22909998893737793
+Epoch  2
+test acc:  0.2549999952316284
+Epoch  3
+test acc:  0.2831999957561493
+Epoch  4
+test acc:  0.3009999990463257
+Epoch  5
+test acc:  0.39640000462532043
+Epoch  6
+test acc:  0.41659998893737793
+Epoch  7
+test acc:  0.4302999973297119
+Epoch  8
+test acc:  0.4359999895095825
+Epoch  9
+test acc:  0.43629997968673706
+Epoch  10
+test acc:  0.4236999750137329
+Epoch  11
+test acc:  0.486299991607666
+Epoch  12
+test acc:  0.43689998984336853
+Epoch  13
+test acc:  0.4343999922275543
+Epoch  14
+test acc:  0.43719998002052307
+Epoch  15
+test acc:  0.44589999318122864
+Epoch  16
+test acc:  0.444599986076355
+Epoch  17
+test acc:  0.4465000033378601
+Epoch  18
+test acc:  0.44259998202323914
+Epoch  19
+test acc:  0.4772000014781952
+Epoch  20
+test acc:  0.4764999747276306
+Epoch  21
+test acc:  0.46719998121261597
+Epoch  22
+test acc:  0.4664999842643738
+Epoch  23
+test acc:  0.4778999984264374
+Epoch  24
+test acc:  0.48819997906684875
+Epoch  25
+test acc:  0.5054000020027161
+Epoch  26
+test acc:  0.4968999922275543
+Epoch  27
+test acc:  0.5414999723434448
+Epoch  28
+test acc:  0.5424000024795532
+Epoch  29
+test acc:  0.5378000140190125
+Epoch  30
+test acc:  0.5526999831199646
+Epoch  31
+test acc:  0.5564000010490417
+Epoch  32
+test acc:  0.5672000050544739
+Epoch  33
+test acc:  0.5719999670982361
+Epoch  34
+test acc:  0.562999963760376
+Epoch  35
