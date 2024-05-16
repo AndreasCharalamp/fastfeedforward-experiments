@@ -1,0 +1,3 @@
+Namespace(dataset='FashionMNIST', batch_size=2048, input_width=784, leaf_width=4, harden_param=1, balance_param=1, depth=2, balance_epochs=300, hard_epochs=100, hidden_width=128, runs=10)
+Model number 1:
+Epoch  1
