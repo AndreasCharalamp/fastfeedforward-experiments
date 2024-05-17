@@ -34,10 +34,10 @@ Our directory will be the following:
 ```bash
 ├── Load Balance
 │   ├── FashionMNIST_l8_d1
-│   │   ├── test
-│   │   └── test_1
+│   │   ├── test_1
+│   │   └── test_2
 │   ├── FashionMNIST_l8_d4
-│   └──   └── test
+│   └──   └── test_1
 ├── fff.py
 └── main.py
 ```
