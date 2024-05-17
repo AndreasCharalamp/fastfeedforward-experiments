@@ -1,8 +1,6 @@
-# fastfeedforward
-A repository for fast feedforward (FFF) networks.
-Fast feedforward layers can be used in place of vanilla feedforward and mixture-of-expert layers, offering inference time that grows only logarithmically in the training width of the layer.
-
-More information can be found in the paper "Fast Feedforward Networks" ([arXiv](https://arxiv.org/abs/2308.14711)).
+# Load Balance and Master Leaf on Fast Feedforward Networks
+A repository for the experiments conducted in link.
+We reproduce experiments from ([arXiv](https://arxiv.org/abs/2308.14711)) and present results on FFF models enhanced using ideas inspired by Mixture of Experts(MoE) reasearch.
 
 ## Quickstart
 1. Install the package.
