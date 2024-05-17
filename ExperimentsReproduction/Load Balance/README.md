@@ -41,5 +41,6 @@ Our directory will be the following:
 ├── fff.py
 └── main.py
 ```
-
+Where FashionMNIST_l8_d1/test_i is created for the excecution of the ith time we excecute main.py with DATASE=FashionMNIST, lead-width=8 and depth = 1.
+Each test folder will contain the parameters of the 10 models trained in the format of a dictionary and a txt with the metrics of each model for all epochs run.
 
