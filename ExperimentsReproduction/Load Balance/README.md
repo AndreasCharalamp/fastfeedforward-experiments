@@ -37,9 +37,9 @@ Our directory will be the following:
 │   │   ├── test_1
 │   │   └── test_2
 │   ├── FashionMNIST_l8_d4
-│   └──   └── test_1
-├── fff.py
-└── main.py
+│   │   └── test_1
+│   ├── fff.py
+└── └── main.py
 ```
 Where FashionMNIST_l8_d1/test_i is created for the excecution of the ith time we excecute main.py with DATASET=FashionMNIST, leaf-width=8 and depth = 1.
 Each test folder will contain the parameters of the 10 models trained in the format of a dictionary and a .txt with the metrics of each model for all epochs run.
