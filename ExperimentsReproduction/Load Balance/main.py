@@ -41,11 +41,11 @@ optimizer = torch.optim.AdamW(model2.parameters(), lr=0.001)
 
 def create_directory(directory):
     if not os.path.exists(directory):
-        os.makedirs(directory)
-        print(f"Directory '{directory}' created.")
+        os.makedirs(directory+"_1")
+        print(f"Directory '{directory}'_1 created.")
         return directory
     else:
-        count = 1
+        count = 2
         while True:
             new_directory = f"{directory}_{count}"
             if not os.path.exists(new_directory):

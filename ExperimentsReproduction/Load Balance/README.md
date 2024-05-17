@@ -1,7 +1,7 @@
 # How to use:
 
 ## fff.py 
-fff.py includes the definition of the FFF class. Building upon the work of Peter Belcak and Roger Wattenhofer, we have merely added a calculation of $f_i$s and $P_i$s needed 
+fff.py includes the definition of the FFF class. Building upon the work of Peter Belcak and Roger Wattenhofer, we have merely added a calculation of f_i s and P_i s needed 
 for the load balancing term in Loss fucntion.
 
 ## main.py
@@ -41,6 +41,6 @@ Our directory will be the following:
 ├── fff.py
 └── main.py
 ```
-Where FashionMNIST_l8_d1/test_i is created for the excecution of the ith time we excecute main.py with DATASE=FashionMNIST, lead-width=8 and depth = 1.
-Each test folder will contain the parameters of the 10 models trained in the format of a dictionary and a txt with the metrics of each model for all epochs run.
+Where FashionMNIST_l8_d1/test_i is created for the excecution of the ith time we excecute main.py with DATASET=FashionMNIST, leaf-width=8 and depth = 1.
+Each test folder will contain the parameters of the 10 models trained in the format of a dictionary and a .txt with the metrics of each model for all epochs run.
 
