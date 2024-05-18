@@ -43,7 +43,7 @@ def create_directory(directory):
     if not os.path.exists(directory):
         os.makedirs(directory+"_1")
         print(f"Directory '{directory}'_1 created.")
-        return directory
+        return directory+"_1"
     else:
         count = 2
         while True:
