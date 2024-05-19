@@ -1,8 +1,8 @@
 # How to use:
 
 ## fff.py 
-fff+masterleaf.py includes the definition of the FFF class with the implementation of Master Leaf. Building upon the work of Peter Belcak and Roger Wattenhofer, we have merely added a calculation of f_i s and P_i s needed 
-for the load balancing term in Loss fucntion. Furthermore, we added the implemetation of Master Leaf.
+fff.py includes the definition of the FFF class with the implementation of Master Leaf. Building upon the work of Peter Belcak and Roger Wattenhofer, we have merely added a calculation of f_i s and P_i as needed 
+for the load balancing term in Loss fucntion. Furthermore, we have added the implemetation of Master Leaf with 8 neurons in the hidden layer. The final output is formulated as folows: Output = k*(Master Leaf Output) + (1-k)*(FFF Output), where k is a trainable parameter.  
 
 ## main.py
 main.py is the file that excecutes a training procedure. 
@@ -28,7 +28,7 @@ python main.py  MNIST --batch-size=256 --leaf-width=8 --depth=4 --balance-epochs
 ```
 Our directory will be the following:
 ```bash
-├── Load Balance
+├── Master Leaf + Load Balance 
 │   ├── MNIST_l8_d1
 │   │   ├── test_1
 │   │   └── test_2
