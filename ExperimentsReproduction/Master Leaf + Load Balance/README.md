@@ -8,7 +8,7 @@ for the load balancing term in Loss fucntion. Furthermore, we have added the imp
 main.py is the file that excecutes a training procedure. 
 ### How to use
 
-1. MNIST
+MNIST
 ```sh
 python main.py  MNIST --batch-size=256 --leaf-width=8 --depth=1 --balance-epochs=300 --hard-epochs=300 --runs=10
 ```
