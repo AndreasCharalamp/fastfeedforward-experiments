@@ -3,6 +3,7 @@
 ## fff.py 
 fff.py includes the definition of the FFF class with the implementation of Master Leaf. Building upon the work of Peter Belcak and Roger Wattenhofer, we have merely added a calculation of f_i s and P_i as needed 
 for the load balancing term in Loss fucntion. Furthermore, we have added the implemetation of Master Leaf with 8 neurons in the hidden layer. The final output is formulated as folows: 
+
 Output = k*(Master Leaf Output) + (1-k)*(FFF Output), where k is a trainable parameter.  
 
 ## main.py
