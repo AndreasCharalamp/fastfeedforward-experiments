@@ -1,4 +1,4 @@
-# Load Balance and Master Leaf on Fast Feedforward Networks
+# Enhancing Fast Feed Forward Networks with Load Balancing and a Master Leaf Node
 A repository for the experiments conducted in link.
 We reproduce experiments from ([arXiv](https://arxiv.org/abs/2308.14711)) and present results on FFF models enhanced using ideas inspired by Mixture of Experts(MoE) reasearch.
 
